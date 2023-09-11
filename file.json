@@ -1,0 +1,13 @@
+ {
+      "name": "saketh",
+      "age": 25,
+      "gender": "male",
+      "course": "cse",
+      "marks": [
+        45,
+        35,
+        67,
+        53,
+        45
+      ]
+      }
